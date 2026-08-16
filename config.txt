@@ -1,1 +1,2 @@
 This is my config file
+This is sample line to add commit 2
